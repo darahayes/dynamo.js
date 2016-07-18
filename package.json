@@ -1,0 +1,28 @@
+{
+  "name": "simple-dynamo",
+  "version": "0.0.1",
+  "description": "A tiny module for doing simple interactions with dynamodb",
+  "main": "dynamo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darragh-hayes/dynamo.js.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "aws",
+    "nosql"
+  ],
+  "author": "Darragh Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darragh-hayes/dynamo.js/issues"
+  },
+  "homepage": "https://github.com/darragh-hayes/dynamo.js#readme",
+  "dependencies": {
+    "aws-sdk": "^2.4.7",
+    "debug": "^2.2.0"
+  }
+}
